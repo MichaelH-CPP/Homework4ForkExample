@@ -1,1 +1,2 @@
-Hello, my name is Michael Hawara.
+Hello, our names are Michael Hawara and Daniel Castillo and we are
+working on hw4 together
